@@ -1,0 +1,29 @@
+_repo: L-esprit-dans-l-histoire-Recherches-et-curiosites-sur-les-mots-historiques_63804
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fournier, Edouard
+    alias: Fournier, Édouard
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '36482'
+    url: http://www.gutenberg.org/2009/agents/36482
+    wikipedia: http://fr.wikipedia.org/wiki/%C3%89douard_Fournier
+description: ''
+gutenberg_issued: '2020-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63804'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anecdotes'
+- !lcc 'D'
+- !lcsh 'History -- Miscellanea'
+- !lcsh 'France -- History -- Miscellanea'
+- !lcsh 'Quotations'
+- GITenberg
+title: 'L''esprit dans l''histoire: Recherches et curiosités sur les mots historiques'
+url: http://www.gutenberg.org/ebooks/63804
