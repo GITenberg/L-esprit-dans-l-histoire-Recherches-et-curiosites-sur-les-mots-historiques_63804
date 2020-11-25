@@ -1,5 +1,8 @@
 _repo: L-esprit-dans-l-histoire-Recherches-et-curiosites-sur-les-mots-historiques_63804
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63804-h/images/cover.jpg
 creator:
   author:
     agent_name: Fournier, Edouard
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36482
     wikipedia: http://fr.wikipedia.org/wiki/%C3%89douard_Fournier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63804#L-esprit-dans-l-histoire-Recherches-et-curiosites-sur-les-mots-historiques
 gutenberg_issued: '2020-11-18'
 gutenberg_type: Text
 identifiers:
